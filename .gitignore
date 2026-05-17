@@ -1,0 +1,12 @@
+# Веса моделей — тяжёлые бинарники, не место в git
+*.pth
+*.ckpt
+
+# lab5: рабочие копии датасета (генерируются split_dataset.py)
+lab5/music_instruments/
+
+# Python / IDE
+__pycache__/
+*.py[cod]
+.idea/
+.ipynb_checkpoints/
