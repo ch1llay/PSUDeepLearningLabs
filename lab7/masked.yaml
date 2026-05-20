@@ -1,0 +1,7 @@
+path: D:\2 Магистратура\3 семестр\DLP\LW7
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+names: ['cat']
